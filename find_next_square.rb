@@ -13,7 +13,7 @@ Examples:(Input --> Output)
 #my answer:
   def find_next_square(sq)
     if Math.sqrt(sq) % 1 == 0
-      (Math.sqrt(sq) +1 **2
+      (Math.sqrt(sq)) +1 **2
         else 
         -1
         end
